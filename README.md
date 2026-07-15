@@ -25,5 +25,5 @@ This project taught me:
 - State management with global variables
 
 ## Next Steps
-
+Apply OOP's Concepts like Class,Objects or Methods.
 Migrating from JSON to SQLite database for better query performance.
